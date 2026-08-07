@@ -1,4 +1,7 @@
+asdfsdaf
+sadfasdf
 asdfasdfsdafsdfello
+<<<<<<< HEAD
 sadf
 sadf
 sadf
@@ -8,3 +11,7 @@ asdf
 asd
 f
 asdf
+=======
+sdfasdf
+sadfasdf
+>>>>>>> 01e9d91cc6620492d3b7d9a04ef84ef3f048c5fd
